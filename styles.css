@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.holder{
+	background:lightblue;
+	height:200px;
+	width:200px;
+	display: grid;
+    grid-template-columns:200px 200px;
+	grid-template-rows:200px 200px;
+}
